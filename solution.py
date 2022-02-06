@@ -1,4 +1,4 @@
-######
+#####
 ###### CSGY6843 Getting Started
 #####
 ### welcome_assignment_answers
